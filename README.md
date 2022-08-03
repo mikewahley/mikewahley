@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mikewahley
 - 👀 I’m interested in IT. ethical hacking and cybersecurity
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Cloud DevOps
+- 📫 How to reach me email: mikewahley@gmail.com
 
 <!---
 mikewahley/mikewahley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

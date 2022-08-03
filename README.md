@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikewahley
-- 👀 I’m interested in IT. ethical hacking and cybersecurity
+- 👀 I’m interested in IT, DevOps, QA Engineering, Ethical hacking and Cybersecurity
 - 🌱 I’m currently learning Cloud DevOps
 - 📫 How to reach me email: mikewahley@gmail.com
 
